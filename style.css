@@ -81,6 +81,9 @@ left: 100px;
 position: absolute;
 top: 400px;
 left: 120px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #4D3D3D;
+font-size:large;
 }
 
 .button2 {
@@ -91,6 +94,9 @@ left: 550px;
 position: absolute;
 top: 400px;
 left: 570px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #4D3D3D;
+font-size:large;
 }
 
 .button3 {
@@ -101,6 +107,9 @@ left: 1000px;
 position: absolute;
 top: 400px;
 left: 1020px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #4D3D3D;
+font-size:large;
 }
 
 .button4 {
@@ -111,6 +120,9 @@ left: 100px;
 position: absolute;
 top: 780px;
 left: 120px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #4D3D3D;
+font-size:large;
 }
 
 .button5 {
@@ -121,6 +133,9 @@ left: 550px;
 position: absolute;
 top: 780px;
 left: 570px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #4D3D3D;
+font-size:large;
 }
 
 .button6 {
@@ -131,6 +146,9 @@ left: 1000px;
 position: absolute;
 top: 780px;
 left: 1020px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: #4D3D3D;
+font-size:large;
 }
 
 
@@ -141,4 +159,6 @@ left: 1020px;
   padding: 10px;
   text-align: center;
   margin-top: 50%;
+  color: #261E1E;
+  font-size: 20px;
 }
